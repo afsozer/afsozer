@@ -1,6 +1,6 @@
 # Alpaslan Fatih Sözer
 
-Attorney at law in Denizli, Türkiye (Denizli Bar, registration no. 2858). My practice covers employment, IT and data protection, administrative and tax law, and I build tools that let AI assistants work with Turkish legal sources without inventing citations.
+Attorney at law in Denizli, Türkiye (Denizli Bar, registration no. 2858). My practice focuses on IT law, cybersecurity and data protection; I also handle employment, administrative and tax matters. I do security research on WordPress plugins and build tools that let AI assistants work with Turkish legal sources without inventing citations.
 
 ## Legal technology
 
