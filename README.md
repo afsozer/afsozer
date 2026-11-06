@@ -13,6 +13,8 @@ Attorney at law in Denizli, Türkiye (Denizli Bar, registration no. 2858). My pr
 
 ## Security research
 
+Five vulnerabilities in WordPress plugins validated through Patchstack so far: three have published CVE records, and two are awaiting vendor patches before disclosure.
+
 - **[CVE-2026-110900](https://www.cve.org/CVERecord?id=CVE-2026-110900)**: missing authorization (CWE-862) in the BookIt WordPress plugin (2.6.0.5 and earlier), reported to the vendor through Patchstack under coordinated disclosure and fixed in 2.6.0.6.
 - **[CVE-2026-111835](https://www.cve.org/CVERecord?id=CVE-2026-111835)**: missing authorization (CWE-862) in the Swish for WooCommerce payment plugin (3.7.8 and earlier) that let an unauthenticated user change the plugin settings, reported to the vendor through Patchstack under coordinated disclosure and fixed in 3.7.9.
 - **[CVE-2026-48201](https://www.cve.org/CVERecord?id=CVE-2026-48201)**: unauthenticated stored cross-site scripting (CWE-79) in Fast Velocity Minify (3.5.7 and earlier, about 30,000 active installs), reported to the vendor through Patchstack under coordinated disclosure and fixed in 3.5.8.
